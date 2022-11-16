@@ -1,5 +1,3 @@
 this is first line.
-this line is added in dev branch.
+this line is added in dev branch. in defature2. modify in add
 feature1.
-here do some confilct
-master modify, but not conflict with feature2
